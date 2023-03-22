@@ -11,7 +11,6 @@ env:
   SUBSCRIPTION-ID: 886fce01-d9f3-47ad-a4aa-02a8ab1ddc86
   WEBAPP-NAME: az400-webapp-healvare
 
-
 jobs:
   #Build, test and publish .net web project in repository
   buildandtest:
